@@ -1,0 +1,15 @@
+{
+  "short_name": "HS Cleaning",
+  "name": "Hidden Springs Cleaning Co.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#111111"
+}
